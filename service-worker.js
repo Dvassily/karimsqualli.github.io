@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1be23e1dcd1ca552a61e4bf8abea7684.js"
+  "/precache-manifest.0bd48204189ff68cd5df0742a333d718.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "drivebox"});
